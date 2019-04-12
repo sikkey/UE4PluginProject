@@ -15,5 +15,8 @@
 			"Name": "SeptemServo",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
